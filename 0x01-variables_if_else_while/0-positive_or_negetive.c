@@ -9,7 +9,6 @@
  *n can either be positive or negetive
  *if else n is zero
  **/
-
 int main(void) 
 {
   int n;
