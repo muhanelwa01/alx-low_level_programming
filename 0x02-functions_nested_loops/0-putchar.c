@@ -2,7 +2,6 @@
 
 int main(void)
 ## function that prints _putchar
-## returns 0
 {
   putchar(int _putchar);
     }
