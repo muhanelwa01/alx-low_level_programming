@@ -1,11 +1,15 @@
-#include <main.h>
+#include "main.h"
 
-int main(void)
-## function that prints _putchar
+/**
+ *_putchar-writes _putchar
+ *
+ *Return:void
+ */
+void print_putchar(_putchar);
 {
-  putchar(int _putchar);
-    }
-{
+  int main(void);
+  _putchar(int _putchar);
+ 
   return 0;
 }
   
