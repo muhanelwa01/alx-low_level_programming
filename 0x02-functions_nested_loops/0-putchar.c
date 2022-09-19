@@ -3,7 +3,7 @@
 /**
  *_putchar-writes _putchar
  *
- *Return:void
+ *Return:always 0
  */
 void print_putchar(_putchar);
 {
